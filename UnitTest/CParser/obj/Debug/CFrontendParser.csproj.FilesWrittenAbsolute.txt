@@ -1,0 +1,5 @@
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/CParser/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/CParser/bin/Debug/CFrontendParser.dll.mdb
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/CParser/bin/Debug/CFrontendParser.dll
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/CParser/obj/Debug/CFrontendParser.dll
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/CParser/obj/Debug/CFrontendParser.dll.mdb

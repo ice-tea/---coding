@@ -1,0 +1,7 @@
+E:\unit\解析\FunctionSummary\FunctionSummary\bin\Debug\FunctionSummary.exe
+E:\unit\解析\FunctionSummary\FunctionSummary\bin\Debug\FunctionSummary.pdb
+E:\unit\解析\FunctionSummary\FunctionSummary\bin\Debug\FunSumC2XML.dll
+E:\unit\解析\FunctionSummary\FunctionSummary\bin\Debug\FunSumC2XML.pdb
+E:\unit\解析\FunctionSummary\FunctionSummary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\FunctionSummary\FunctionSummary\obj\x86\Debug\FunctionSummary.exe
+E:\unit\解析\FunctionSummary\FunctionSummary\obj\x86\Debug\FunctionSummary.pdb

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<translation_unit>
+    <declaration>
+        <type_qualifier token="const"/>
+        <type_specifier_atomic token="double"/>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="C"/>
+            </declarator>
+            <initializer>
+                <expression_cte token="2.9979e8"/>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <function_definition>
+        <type_specifier_atomic token="int"/>
+        <declarator>
+            <direct_declarator_function>
+                <direct_declarator_id token="euqal"/>
+                <parameter_list>
+                    <parameter_declaration>
+                        <type_specifier_atomic token="char"/>
+                        <declarator>
+                            <pointer>
+                            </pointer>
+                        </declarator>
+                    </parameter_declaration>
+                    <parameter_declaration>
+                        <type_specifier_atomic token="char"/>
+                        <declarator>
+                            <pointer>
+                            </pointer>
+                        </declarator>
+                    </parameter_declaration>
+                </parameter_list>
+            </direct_declarator_function>
+        </declarator>
+        <compound_statement>
+            <return_statement>
+                <expression>
+                    <expression_cte token="0"/>
+                </expression>
+            </return_statement>
+        </compound_statement>
+    </function_definition>
+</translation_unit>
+

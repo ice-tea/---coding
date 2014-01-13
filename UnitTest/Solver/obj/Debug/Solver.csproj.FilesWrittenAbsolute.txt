@@ -1,0 +1,7 @@
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/bin/Debug/Solver.exe.mdb
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/bin/Debug/Solver.exe
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/obj/Debug/Solver.exe
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/obj/Debug/Solver.exe.mdb
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/bin/Debug/dimension.exe
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/Solver/bin/Debug/dimension.exe.mdb

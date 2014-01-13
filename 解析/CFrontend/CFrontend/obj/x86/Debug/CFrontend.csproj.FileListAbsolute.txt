@@ -1,0 +1,14 @@
+E:\量纲分析\解析\CFrontend\CFrontend\bin\Debug\CFrontend.exe
+E:\量纲分析\解析\CFrontend\CFrontend\bin\Debug\CFrontend.pdb
+E:\量纲分析\解析\CFrontend\CFrontend\bin\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\CFrontend\bin\Debug\CFrontendParser.pdb
+E:\量纲分析\解析\CFrontend\CFrontend\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\CFrontend\CFrontend\obj\x86\Debug\CFrontend.exe
+E:\量纲分析\解析\CFrontend\CFrontend\obj\x86\Debug\CFrontend.pdb
+E:\unit\解析\CFrontend\CFrontend\obj\x86\Debug\CFrontend.exe
+E:\unit\解析\CFrontend\CFrontend\obj\x86\Debug\CFrontend.pdb
+E:\unit\解析\CFrontend\CFrontend\bin\Debug\CFrontend.exe
+E:\unit\解析\CFrontend\CFrontend\bin\Debug\CFrontend.pdb
+E:\unit\解析\CFrontend\CFrontend\bin\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\CFrontend\bin\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\CFrontend\obj\x86\Debug\ResolveAssemblyReference.cache

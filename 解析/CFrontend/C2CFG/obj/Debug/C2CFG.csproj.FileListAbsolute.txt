@@ -1,0 +1,14 @@
+E:\量纲分析\解析\CFrontend\C2CFG\bin\Debug\C2CFG.dll
+E:\量纲分析\解析\CFrontend\C2CFG\bin\Debug\C2CFG.pdb
+E:\量纲分析\解析\CFrontend\C2CFG\bin\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\C2CFG\bin\Debug\CFrontendParser.pdb
+E:\量纲分析\解析\CFrontend\C2CFG\obj\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\CFrontend\C2CFG\obj\Debug\C2CFG.dll
+E:\量纲分析\解析\CFrontend\C2CFG\obj\Debug\C2CFG.pdb
+E:\unit\解析\CFrontend\C2CFG\bin\Debug\C2CFG.dll
+E:\unit\解析\CFrontend\C2CFG\bin\Debug\C2CFG.pdb
+E:\unit\解析\CFrontend\C2CFG\bin\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\C2CFG\bin\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\C2CFG\obj\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\CFrontend\C2CFG\obj\Debug\C2CFG.dll
+E:\unit\解析\CFrontend\C2CFG\obj\Debug\C2CFG.pdb

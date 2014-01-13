@@ -1,0 +1,11 @@
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\obj\Debug\UnitData.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\UnitData.exe.config
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\UnitData.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\UnitData.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\Solver.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\dimension.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\Solver.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\dimension.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\bin\Debug\dimension.xml
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\obj\Debug\UnitData.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitData\obj\Debug\UnitData.pdb

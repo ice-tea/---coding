@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CParser/CSyntax/CFG/CStmt.cs">
+    <Files>
+      <File FileName="CFrontend/Program.cs" Line="32" Column="21" />
+      <File FileName="CParser/CSyntax/CProgram.cs" Line="23" Column="44" />
+      <File FileName="CParser/CSyntax/CFunction.cs" Line="19" Column="22" />
+      <File FileName="CParser/CSyntax/CFG/CStmt.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

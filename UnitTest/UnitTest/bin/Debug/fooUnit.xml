@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<translation_unit>
+    <declaration>
+        <type_qualifier token="const"/>
+        <type_specifier_atomic token="double"/>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="C"/>
+            </declarator>
+            <initializer>
+                <expression_cte token="2.9979e8"/>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="my2"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;aa&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;bb&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="my3"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;aa&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;bb&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="my4"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;aa&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;bb&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="MYUNIT6"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;#a&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;kg&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <storage_class_specifier token="typedef"/>
+        <type_specifier_struct_union>
+            <struct_union token="struct"/>
+            <struct_union_id token="b"/>
+            <struct_declaration>
+                <type_specifier_atomic token="int"/>
+                <struct_declarator>
+                    <declarator>
+                        <direct_declarator_id token="a"/>
+                    </declarator>
+                </struct_declarator>
+            </struct_declaration>
+            <struct_declaration>
+                <type_specifier_atomic token="int"/>
+                <struct_declarator>
+                    <declarator>
+                        <direct_declarator_id token="b"/>
+                    </declarator>
+                </struct_declarator>
+            </struct_declaration>
+        </type_specifier_struct_union>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="b1"/>
+            </declarator>
+        </init_declarator>
+    </declaration>
+    <function_definition>
+        <type_specifier_atomic token="int"/>
+        <declarator>
+            <direct_declarator_function>
+                <direct_declarator_id token="main"/>
+            </direct_declarator_function>
+        </declarator>
+        <compound_statement>
+            <declaration>
+                <type_specifier_atomic token="b1"/>
+                <init_declarator>
+                    <declarator>
+                        <direct_declarator_id token="c"/>
+                    </declarator>
+                </init_declarator>
+            </declaration>
+            <declaration>
+                <type_specifier_atomic token="b1"/>
+                <init_declarator>
+                    <declarator>
+                        <pointer>
+                        </pointer>
+                        <direct_declarator_id token="cp"/>
+                    </declarator>
+                </init_declarator>
+            </declaration>
+            <expression_statement>
+                <expression>
+                    <expression_assignment>
+                        <expression_id token="cp"/>
+                        <expression_reference>
+                            <expression_id token="c"/>
+                        </expression_reference>
+                    </expression_assignment>
+                </expression>
+            </expression_statement>
+            <expression_statement>
+                <expression>
+                    <expression_assignment>
+                        <expression_direct_member_selector>
+                            <expression_id token="c"/>
+                            <expression_member token="a"/>
+                        </expression_direct_member_selector>
+                        <expression_cte token="0"/>
+                    </expression_assignment>
+                </expression>
+            </expression_statement>
+            <expression_statement>
+                <expression>
+                    <expression_add_assignment>
+                        <expression_direct_member_selector>
+                            <expression_id token="c"/>
+                            <expression_member token="a"/>
+                        </expression_direct_member_selector>
+                        <expression_cte token="5"/>
+                    </expression_add_assignment>
+                </expression>
+            </expression_statement>
+            <expression_statement>
+                <expression>
+                    <expression_assignment>
+                        <expression_indirect_member_selector>
+                            <expression_id token="cp"/>
+                            <expression_member token="b"/>
+                        </expression_indirect_member_selector>
+                        <expression_cte token="0"/>
+                    </expression_assignment>
+                </expression>
+            </expression_statement>
+            <return_statement>
+                <expression>
+                    <expression_cte token="0"/>
+                </expression>
+            </return_statement>
+        </compound_statement>
+    </function_definition>
+</translation_unit>
+

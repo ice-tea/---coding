@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5F5FB86-B40C-414B-A1D9-53C325742D2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CFrontendParser</RootNamespace>
+    <AssemblyName>CFrontendParser</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CParser\Def\DeclareFunctionParser.cs" />
+    <Compile Include="CParser\Def\DeclareStructUnionParser.cs" />
+    <Compile Include="CParser\Def\DeclareTypeDefParser.cs" />
+    <Compile Include="CParser\Def\DeclareTypeDefParser2.cs" />
+    <Compile Include="CParser\Def\DeclareVarParser.cs" />
+    <Compile Include="CParser\CFG\BreakStmtParser.cs" />
+    <Compile Include="CParser\CFG\CompoundStmtParser.cs" />
+    <Compile Include="CParser\CFG\ContinueStmt.cs" />
+    <Compile Include="CParser\Expression\ExpressionParser.cs" />
+    <Compile Include="CParser\CFG\ExprStmtParser.cs" />
+    <Compile Include="CParser\CFG\ForStmtParser.cs" />
+    <Compile Include="CParser\CFG\IfStmtParser.cs" />
+    <Compile Include="CParser\CFG\LabelStmtParser.cs" />
+    <Compile Include="CParser\CFG\ReturnStmtParser.cs" />
+    <Compile Include="CParser\CFG\SwitchStmtParser.cs" />
+    <Compile Include="CParser\CFG\WhileStmtParser.cs" />
+    <Compile Include="CParser\Expression\ExpressionParser2.cs" />
+    <Compile Include="CParser\Def\FunctionParser.cs" />
+    <Compile Include="CParser\ParseCFile.cs" />
+    <Compile Include="CParser\ParseCProgram.cs" />
+    <Compile Include="CParser\Parser.cs" />
+    <Compile Include="CSyntax\CFG\CompoundStmt.cs" />
+    <Compile Include="CSyntax\CFG\ExprStmt.cs" />
+    <Compile Include="CSyntax\CFG\ForStmt.cs" />
+    <Compile Include="CSyntax\CFG\CStmt.cs" />
+    <Compile Include="CSyntax\CFG\GoStmt.cs" />
+    <Compile Include="CSyntax\CFG\IfStmt.cs" />
+    <Compile Include="CSyntax\CFG\ReturnStmt.cs" />
+    <Compile Include="CSyntax\CFG\SimpleStmt.cs" />
+    <Compile Include="CSyntax\CFG\SwitchStmt.cs" />
+    <Compile Include="CSyntax\CFG\WhileStmt.cs" />
+    <Compile Include="CSyntax\CFile.cs" />
+    <Compile Include="CSyntax\CFunction.cs" />
+    <Compile Include="CSyntax\CProgram.cs" />
+    <Compile Include="CSyntax\Expression\CExpr.cs" />
+    <Compile Include="CSyntax\Expression\EmptyExpr.cs" />
+    <Compile Include="CSyntax\Expression\ExprArray.cs" />
+    <Compile Include="CSyntax\Expression\ExprBracket.cs" />
+    <Compile Include="CSyntax\Expression\ExprCast.cs" />
+    <Compile Include="CSyntax\Expression\ExprConst.cs" />
+    <Compile Include="CSyntax\Expression\ExprFunCall.cs" />
+    <Compile Include="CSyntax\Expression\ExprID.cs" />
+    <Compile Include="CSyntax\Expression\ExprInitializer.cs" />
+    <Compile Include="CSyntax\Expression\ExprMem.cs" />
+    <Compile Include="CSyntax\Expression\ExprSizeof.cs" />
+    <Compile Include="CSyntax\Expression\ExprStr.cs" />
+    <Compile Include="CSyntax\Expression\PolyExpr.cs" />
+    <Compile Include="CSyntax\Type\CArrayType.cs" />
+    <Compile Include="CSyntax\Type\CDerivedType.cs" />
+    <Compile Include="CSyntax\CEntity.cs" />
+    <Compile Include="CSyntax\Type\CFuncType.cs" />
+    <Compile Include="CSyntax\Type\CPtrType.cs" />
+    <Compile Include="CSyntax\Type\CType.cs" />
+    <Compile Include="CSyntax\CVarDefinition.cs" />
+    <Compile Include="CSyntax\util\CEntityCollection.cs" />
+    <Compile Include="CSyntax\util\CPair.cs" />
+    <Compile Include="Preprocess\C2XML.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

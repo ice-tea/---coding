@@ -1,0 +1,10 @@
+E:\量纲分析\解析\CFrontend\CParser\bin\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\CParser\bin\Debug\CFrontendParser.pdb
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\CParser\bin\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\CParser\bin\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\CParser\obj\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\CFrontend\CParser\obj\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\CParser\obj\Debug\CFrontendParser.pdb

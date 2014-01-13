@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest/UnitCalculate/exprCalculate.cs">
+    <Files>
+      <File FileName="dimension/Program.cs" Line="80" Column="18" />
+      <File FileName="UnitTest/UnitCalculate/exprCalculate.cs" Line="40" Column="46" />
+      <File FileName="Solver/Util/DNode.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

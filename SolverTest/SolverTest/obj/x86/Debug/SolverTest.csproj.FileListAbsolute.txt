@@ -1,0 +1,10 @@
+E:\work\SolverTest\SolverTest\bin\Debug\SolverTest.exe
+E:\work\SolverTest\SolverTest\bin\Debug\SolverTest.pdb
+E:\work\SolverTest\SolverTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\SolverTest\SolverTest\obj\x86\Debug\SolverTest.exe
+E:\work\SolverTest\SolverTest\obj\x86\Debug\SolverTest.pdb
+E:\work\SolverTest\SolverTest\bin\Debug\dimension.exe
+E:\work\SolverTest\SolverTest\bin\Debug\Solver.exe
+E:\work\SolverTest\SolverTest\bin\Debug\dimension.pdb
+E:\work\SolverTest\SolverTest\bin\Debug\dimension.xml
+E:\work\SolverTest\SolverTest\bin\Debug\Solver.pdb

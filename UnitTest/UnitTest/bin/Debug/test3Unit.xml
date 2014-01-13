@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<translation_unit>
+    <declaration>
+        <type_qualifier token="const"/>
+        <type_specifier_atomic token="double"/>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="C"/>
+            </declarator>
+            <initializer>
+                <expression_cte token="2.9979e8"/>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="MYUNIT2"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;#s1&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;m&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_qualifier token="const"/>
+        <type_specifier_atomic token="int"/>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="s1"/>
+            </declarator>
+            <initializer>
+                <expression_cte token="100"/>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_specifier_atomic token="char"/>
+        <init_declarator>
+            <declarator>
+                <pointer>
+                </pointer>
+                <direct_declarator_array>
+                    <direct_declarator_id token="MYUNIT4"/>
+                </direct_declarator_array>
+            </declarator>
+            <initializer>
+                <initializer>
+                    <expression_str token="&quot;#s2&quot;"/>
+                </initializer>
+                <initializer>
+                    <expression_str token="&quot;km&quot;"/>
+                </initializer>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <declaration>
+        <type_qualifier token="const"/>
+        <type_specifier_atomic token="int"/>
+        <init_declarator>
+            <declarator>
+                <direct_declarator_id token="s2"/>
+            </declarator>
+            <initializer>
+                <expression_cte token="100"/>
+            </initializer>
+        </init_declarator>
+    </declaration>
+    <function_definition>
+        <type_specifier_atomic token="int"/>
+        <declarator>
+            <direct_declarator_function>
+                <direct_declarator_id token="main"/>
+            </direct_declarator_function>
+        </declarator>
+        <compound_statement>
+            <declaration>
+                <type_specifier_atomic token="char"/>
+                <init_declarator>
+                    <declarator>
+                        <pointer>
+                        </pointer>
+                        <direct_declarator_array>
+                            <direct_declarator_id token="MYUNIT9"/>
+                        </direct_declarator_array>
+                    </declarator>
+                    <initializer>
+                        <initializer>
+                            <expression_str token="&quot;#t&quot;"/>
+                        </initializer>
+                        <initializer>
+                            <expression_str token="&quot;s&quot;"/>
+                        </initializer>
+                    </initializer>
+                </init_declarator>
+            </declaration>
+            <declaration>
+                <type_specifier_atomic token="int"/>
+                <init_declarator>
+                    <declarator>
+                        <direct_declarator_id token="t"/>
+                    </declarator>
+                    <initializer>
+                        <expression_cte token="10"/>
+                    </initializer>
+                </init_declarator>
+            </declaration>
+            <declaration>
+                <type_specifier_atomic token="int"/>
+                <init_declarator>
+                    <declarator>
+                        <direct_declarator_id token="v1"/>
+                    </declarator>
+                    <initializer>
+                        <expression_cte token="0"/>
+                    </initializer>
+                </init_declarator>
+            </declaration>
+            <declaration>
+                <type_specifier_atomic token="int"/>
+                <init_declarator>
+                    <declarator>
+                        <direct_declarator_id token="v2"/>
+                    </declarator>
+                    <initializer>
+                        <expression_cte token="0"/>
+                    </initializer>
+                </init_declarator>
+            </declaration>
+            <expression_statement>
+                <expression>
+                    <expression_assignment>
+                        <expression_id token="v1"/>
+                        <expression_div>
+                            <expression_id token="s1"/>
+                            <expression_id token="t"/>
+                        </expression_div>
+                    </expression_assignment>
+                </expression>
+            </expression_statement>
+            <expression_statement>
+                <expression>
+                    <expression_assignment>
+                        <expression_id token="v2"/>
+                        <expression_div>
+                            <expression_id token="s2"/>
+                            <expression_id token="t"/>
+                        </expression_div>
+                    </expression_assignment>
+                </expression>
+            </expression_statement>
+            <return_statement>
+                <expression>
+                    <expression_greater>
+                        <expression_id token="v1"/>
+                        <expression_id token="v2"/>
+                    </expression_greater>
+                </expression>
+            </return_statement>
+        </compound_statement>
+    </function_definition>
+</translation_unit>
+

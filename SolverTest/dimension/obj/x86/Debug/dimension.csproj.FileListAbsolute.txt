@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\dimension\bin\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\dimension\bin\Debug\dimension.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\dimension\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\dimension\obj\x86\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\dimension\obj\x86\Debug\dimension.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\dimension\bin\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\dimension\bin\Debug\dimension.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\dimension\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\dimension\obj\x86\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\dimension\obj\x86\Debug\dimension.pdb
+E:\work\SolverTest\dimension\bin\Debug\dimension.exe
+E:\work\SolverTest\dimension\bin\Debug\dimension.pdb
+E:\work\SolverTest\dimension\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\SolverTest\dimension\obj\x86\Debug\dimension.exe
+E:\work\SolverTest\dimension\obj\x86\Debug\dimension.pdb

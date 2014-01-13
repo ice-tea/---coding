@@ -1,0 +1,9 @@
+E:\量纲分析\解析\CFrontend\Summarization\bin\Debug\Summarization.dll
+E:\量纲分析\解析\CFrontend\Summarization\bin\Debug\Summarization.pdb
+E:\量纲分析\解析\CFrontend\Summarization\bin\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\Summarization\bin\Debug\CFrontendParser.pdb
+E:\量纲分析\解析\CFrontend\Summarization\obj\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\CFrontend\Summarization\obj\Debug\Summarization.dll
+E:\量纲分析\解析\CFrontend\Summarization\obj\Debug\Summarization.pdb
+E:\unit\解析\CFrontend\Summarization\obj\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\CFrontend\Summarization\obj\Debug\Summarization.dll

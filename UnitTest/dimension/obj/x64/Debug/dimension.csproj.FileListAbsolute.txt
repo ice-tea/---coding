@@ -1,0 +1,5 @@
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\dimension\bin\x64\Debug\dimension.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\dimension\bin\x64\Debug\dimension.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\dimension\obj\x64\Debug\dimension.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\dimension\obj\x64\Debug\dimension.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\dimension\obj\x64\Debug\dimension.pdb

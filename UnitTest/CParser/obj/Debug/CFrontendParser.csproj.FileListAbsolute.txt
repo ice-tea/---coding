@@ -1,0 +1,27 @@
+E:\量纲分析\解析\CFrontend\CParser\bin\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\CParser\bin\Debug\CFrontendParser.pdb
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\CFrontendParser.dll
+E:\量纲分析\解析\CFrontend\CParser\obj\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\CParser\bin\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\CParser\bin\Debug\CFrontendParser.pdb
+E:\unit\解析\CFrontend\CParser\obj\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\CFrontend\CParser\obj\Debug\CFrontendParser.dll
+E:\unit\解析\CFrontend\CParser\obj\Debug\CFrontendParser.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\CParser\bin\Debug\CFrontendParser.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\CParser\bin\Debug\CFrontendParser.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\CParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\CParser\obj\Debug\CFrontendParser.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\CParser\obj\Debug\CFrontendParser.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\CFrontendParser.dll
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\CFrontendParser.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\obj\Debug\CFrontendParser.dll
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\obj\Debug\CFrontendParser.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\obj\Debug\CFrontendParser.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\UnitData.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\Solver.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\dimension.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\UnitData.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\Solver.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\dimension.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\CParser\bin\Debug\dimension.xml

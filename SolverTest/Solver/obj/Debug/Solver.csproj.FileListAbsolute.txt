@@ -1,0 +1,30 @@
+c:\users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\bin\Debug\Solver.exe.config
+c:\users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\bin\Debug\Solver.exe
+c:\users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\bin\Debug\Solver.pdb
+c:\users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\obj\Debug\Solver.exe
+c:\users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\obj\Debug\Solver.pdb
+C:\Users\snowi_000\documents\visual studio 2012\Projects\Solver\Solver\obj\Debug\Solver.csprojResolveAssemblyReference.cache
+E:\SkyDrive\量纲\Solver\Solver\bin\Debug\Solver.exe.config
+E:\SkyDrive\量纲\Solver\Solver\obj\Debug\Solver.exe
+E:\SkyDrive\量纲\Solver\Solver\obj\Debug\Solver.pdb
+E:\SkyDrive\量纲\Solver\Solver\obj\Debug\ResolveAssemblyReference.cache
+E:\SkyDrive\量纲\Solver\Solver\bin\Debug\Solver.exe
+E:\SkyDrive\量纲\Solver\Solver\bin\Debug\Solver.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\Solver.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\Solver.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\Solver.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\obj\Debug\Solver.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\obj\Debug\Solver.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\dimension.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\Solver\bin\Debug\dimension.xml
+E:\work\SolverTest\Solver\bin\Debug\Solver.exe.config
+E:\work\SolverTest\Solver\bin\Debug\Solver.exe
+E:\work\SolverTest\Solver\bin\Debug\Solver.pdb
+E:\work\SolverTest\Solver\bin\Debug\dimension.exe
+E:\work\SolverTest\Solver\bin\Debug\dimension.pdb
+E:\work\SolverTest\Solver\bin\Debug\dimension.xml
+E:\work\SolverTest\Solver\obj\Debug\ResolveAssemblyReference.cache
+E:\work\SolverTest\Solver\obj\Debug\Solver.exe
+E:\work\SolverTest\Solver\obj\Debug\Solver.pdb

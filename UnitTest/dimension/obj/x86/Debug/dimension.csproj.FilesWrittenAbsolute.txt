@@ -1,0 +1,5 @@
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/dimension/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/dimension/bin/Debug/dimension.exe.mdb
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/dimension/bin/Debug/dimension.exe
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/dimension/obj/x86/Debug/dimension.exe
+/Users/libo/SkyDrive/研究生工程/量纲-coding/UnitTest/dimension/obj/x86/Debug/dimension.exe.mdb

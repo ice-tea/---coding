@@ -1,0 +1,10 @@
+E:\量纲分析\解析\FunctionSummary\FunSumC2XML\bin\Debug\FunSumC2XML.dll
+E:\量纲分析\解析\FunctionSummary\FunSumC2XML\bin\Debug\FunSumC2XML.pdb
+E:\量纲分析\解析\FunctionSummary\FunSumC2XML\obj\Debug\ResolveAssemblyReference.cache
+E:\量纲分析\解析\FunctionSummary\FunSumC2XML\obj\Debug\FunSumC2XML.dll
+E:\量纲分析\解析\FunctionSummary\FunSumC2XML\obj\Debug\FunSumC2XML.pdb
+E:\unit\解析\FunctionSummary\FunSumC2XML\bin\Debug\FunSumC2XML.dll
+E:\unit\解析\FunctionSummary\FunSumC2XML\bin\Debug\FunSumC2XML.pdb
+E:\unit\解析\FunctionSummary\FunSumC2XML\obj\Debug\ResolveAssemblyReference.cache
+E:\unit\解析\FunctionSummary\FunSumC2XML\obj\Debug\FunSumC2XML.dll
+E:\unit\解析\FunctionSummary\FunSumC2XML\obj\Debug\FunSumC2XML.pdb

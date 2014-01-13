@@ -1,0 +1,32 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\UnitTest.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\CFrontendParser.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\ConsoleApplication1.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\CFrontendParser.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\bin\Debug\ConsoleApplication1.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\obj\x86\Debug\UnitTest.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\UnitTest\UnitTest\obj\x86\Debug\UnitTest.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UnitTest\bin\Debug\dimension.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UnitTest\bin\Debug\dimension.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UnitTest\bin\Debug\dimension.xml
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UnitTest\bin\Debug\Solver.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UnitTest\bin\Debug\Solver.pdb
+C:\Users\Bo\Documents\量纲-coding\UnitTest\UnitTest\obj\x86\Debug\UnitTest.exe
+C:\Users\Bo\Documents\量纲-coding\UnitTest\UnitTest\obj\x86\Debug\UnitTest.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\obj\x86\Debug\UnitTest.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\obj\x86\Debug\UnitTest.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\obj\x86\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\CFrontendParser.dll
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\dimension.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\Solver.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\CFrontendParser.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\Solver.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\dimension.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\UnitData.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\UnitData.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UnitTest\bin\Debug\dimension.xml

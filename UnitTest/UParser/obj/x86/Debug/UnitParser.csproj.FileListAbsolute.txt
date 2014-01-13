@@ -1,0 +1,14 @@
+E:\unit\预处理\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\unit\预处理\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\unit\预处理\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\unit\预处理\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\unit\预处理\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UParser\bin\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UParser\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UParser\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\UnitTest\UParser\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UParser\bin\Debug\ConsoleApplication1.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UParser\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UParser\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Bo\Documents\量纲\量纲-coding\UnitTest\UParser\obj\x86\Debug\ConsoleApplication1.pdb
